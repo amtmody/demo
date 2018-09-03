@@ -1,1 +1,3 @@
 "new feature" 
+Changes made on 9/3/2018, more changes
+tsting reset
